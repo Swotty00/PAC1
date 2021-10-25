@@ -3,14 +3,14 @@ using namespace std;
 
 int main()
 {
-   string x, y;
+   string a, y;
 
-   x=0;
+   a=0;
    y=0;
 
-   while (x++<6 && y++<10)
+   while (a++<6 && y++<10)
    {
-       cout<< x, y << "\n"; 
+       cout<< a, y << "\n"; 
    }
 
 
